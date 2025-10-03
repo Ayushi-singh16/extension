@@ -20,3 +20,4 @@ The project emphasizes browser extension development, task management functional
 This internship helped me enhance my skills in JavaScript, Chrome extension development, and real-time task tracking, while gaining hands-on experience in creating interactive, data-driven extensions. The project also demonstrates the ability to follow best coding practices, implement functional features within a browser environment, and deliver a working solution within the one-month internship duration.
 
 ⸻
+![Image](https://github.com/user-attachments/assets/718b6c09-2c46-4fa6-989a-3cae6c1da5e1)
